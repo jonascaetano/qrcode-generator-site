@@ -12,4 +12,9 @@
 
 
 
-Click [here](https://jonascaetano.github.io/qrcode-generator-site/) to access!
+Click [here](https://jonascaetano.github.io/qrcode-generator-site/) to access! (GitHub Pages)
+
+
+
+Click [here](https://atividades-pdta1f3q4-jonascaetano.vercel.app/) to access! (Vercel)
+
